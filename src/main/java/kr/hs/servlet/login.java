@@ -30,7 +30,7 @@ public class login extends HttpServlet{
 		out.print("</p>");
 		out.print("<p>성별: "+req.getParameter("gender")+"</p>");
 		out.print("<p>직업: "+req.getParameter("job")+"</p>");
-		out.print("<p>할 말: "+req.getParameter("t")+"</p>");
+		out.print("<p>메모: "+req.getParameter("t")+"</p>");
 
 		out.print("</body></html>");
 		

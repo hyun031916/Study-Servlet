@@ -12,10 +12,10 @@
 		<p> 비밀번호: <input type="password" name="pass"/> </p>
 		<p> 이름: <input type="text" name="name"/> </p>
 		<p> 취미: </p>
-		<input type="checkbox" name="hobby" value="climbing"/>등산
-		<input type="checkbox" name="hobby" value="swim"/>수영
+		<input type="checkbox" name="hobby" value="coding"/>코딩
+		<input type="checkbox" name="hobby" value="blog"/>블로그하기
 		<input type="checkbox" name="hobby" value="reading"/>독서
-		<input type="checkbox" name="hobby" value="music"/>음악
+		<input type="checkbox" name="hobby" value="music"/>음악듣기
 		<br>
 		<p> 성별: </p>
 		<input type="radio" name="gender" value="female"/> 여성
